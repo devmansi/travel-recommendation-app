@@ -1,0 +1,50 @@
+.container {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.container p {
+    padding: 0.5rem 0rem;
+}
+
+.container hr {
+    width: 50%;
+}
+
+.main-content {
+    width: 50%;
+    margin: auto;
+    padding: 2rem;
+}
+
+.main-content .locations {
+    text-align: left;
+}
+
+.btn {
+    cursor: pointer;
+    background: rgb(217, 218, 221);
+    border-radius: 0.7rem;
+    padding: 0.4rem .8rem;
+    border: 1px solid black;
+    margin: 1rem 0.3rem;
+}
+
+.list {
+    list-style: none;
+    padding: 8px;
+    width: 60%;
+}
+
+.list-element {
+    text-align: left;
+    margin: 0.5rem 0rem;
+    font-weight: bold;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.rating {
+    padding: 0px 20px;
+    margin: 0px 5px;
+}
